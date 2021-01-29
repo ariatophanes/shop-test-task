@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cf02cbc27edfd4863b1f88d8e321b0fc
+  m_SerializeEntries:
+  - m_GUID: 5cbe98d1ae24c4221b6a0a57c4dda88e
+    m_Address: Assets/Graphics/Images/Wheat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 69f2659e8ffe84a898322eaee7f99d13
+    m_Address: Assets/Prefabs/Views/Shop UI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1893658674025376857, guid: 69f2659e8ffe84a898322eaee7f99d13, type: 3}
+    m_TargetAsset: {fileID: 1893658674025376857, guid: 69f2659e8ffe84a898322eaee7f99d13, type: 3}
+  - m_GUID: 72d2c244ca2494ef48ba09d68f790a25
+    m_Address: Assets/Graphics/Images/Butter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 72d2c244ca2494ef48ba09d68f790a25, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 72d2c244ca2494ef48ba09d68f790a25, type: 3}
+  - m_GUID: 78a95ab63317b4933b7b1610e9a827a8
+    m_Address: Assets/Graphics/Images/Corn.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9700193348717434db0aa0e8f1c7f617
+    m_Address: Assets/Graphics/Images/Loading.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ba9d3bc2f99554f838e89be4a3627bdb
+    m_Address: Assets/Prefabs/Views/Scroll Next Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c30c272ea5ae64e6cbaa51b6a01ed9cb
+    m_Address: Assets/Prefabs/Views/Scroll Prev Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ce1bb91608c7b4ce2b4deaea58f567cb
+    m_Address: Assets/Graphics/Images/Mushrooms.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d4fc42959a23e445d9911deee4b85146
+    m_Address: Assets/Prefabs/Views/Slots.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fb806883ceb0c42908216d3bd0da6da1
+    m_Address: Assets/Prefabs/Views/Close Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fdab5f4b2b85b4c68bdb2f2759b1318c
+    m_Address: Assets/Prefabs/Views/Offer View.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: acf58b1f8a2774615a4e9828e1de85a3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5aeee6faf838148c18d32b78affac2a5, type: 2}
+    - {fileID: 11400000, guid: 125b75ce96fc940038ce991186e4ce2a, type: 2}
